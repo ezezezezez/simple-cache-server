@@ -1,5 +1,5 @@
 astroid==2.3.3
-gevent==1.4.0
+gevent==23.9.1
 greenlet==0.4.15
 isort==4.3.21
 lazy-object-proxy==1.4.3
